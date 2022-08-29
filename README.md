@@ -1,4 +1,5 @@
 # randomPass
+Activity solo project from scrimba challenge
 
 Still under construction..
 
