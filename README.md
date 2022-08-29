@@ -7,3 +7,6 @@ to do features:
 1. ability to set length features
 2. add copy on click
 3. toggle symbols/numbers off
+
+site is published in github pages
+ https://camsmy.github.io/randomPass/
