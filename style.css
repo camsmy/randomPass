@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Karla:wght@800&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1F2937;
+}
+.box {
+    margin-top: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+  
+.box .inside {
+    width: 600px;
+    height: 500px;
+}
+.center { 
+    justify-content: center; 
+    align-items: center;
+} 
+.flex{
+    display: flex;
+}
+
+.generate{
+    font-family: 'Karla', sans-serif;
+    color: #fff;
+    font-size: 40px;
+}
+.random{
+    color: #4ADF86;
+    font-size:35px;
+    font-family: 'Karla', sans-serif;
+    font-weight: 800;
+}
+
+p{
+    color: #D5D4D8;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Inter', sans-serif; 
+    margin-top: 15px;
+}
+.line{
+    background-color: #2F3E53;
+    height: 2px;
+    margin-top: 30px;
+}
+button{
+    margin-top: 40px;
+    background-color: #10B981;
+    color: #fff;
+    font-family: 'Inter', sans-serif; 
+    padding: 15px 30px;
+    border: 0;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+.flex-around{
+    justify-content: space-between;
+}
+.pass1,.pass2{
+    margin-top: 30px;
+    background-color: #273549;
+    height: 40px;
+    width: 300px;
+    border-radius: 10px;
+    padding-bottom: 50px;
+}
+.pass1{
+    margin-right: 50px;
+}
+.text-center{
+    text-align: center;
+}
+.pass1 p, .pass2 p{
+    color: #4ADF86;
+}
